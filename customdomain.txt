@@ -20,7 +20,6 @@ edu.ruangguru.com
 gw.ruangguru.com
 bimbel.ruangguru.com
 blog.ruangguru.com
-roboguru.ruangguru.com
 io.ruangguru.com
 open.spotify.com
 investors.spotify.com
